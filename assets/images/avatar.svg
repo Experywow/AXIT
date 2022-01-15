@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70" width="70" height="70">
+	<title>Testimonials</title>
+	<defs>
+		<image  width="70" height="70" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAMAAABG8BK2AAAAAXNSR0IB2cksfwAAALFQTFRF////mpqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqampqaGRy2NQAAADt0Uk5TAAAcTGSAl6/H38uzm2hQJCh8w//PgzQ4h9vjk0Qwt0CfGI/76/NYBAy/09fnXPcspwhIPGy7cKNUYHhPGFvhAAACGUlEQVR4nK3X61qCQBAG4KE0RRSsgSRTgURBIousrO7/wlokizN7+v4K7wOyuzMDAKA05OKy178aDFV1pI37E91oug6y1P42vb7BUkzrlo2Z2XdlI8v8fkHNLFf1RpahQ8UYbhuSRlt2Mt7DukshcY12xvEpEJLNto2Z0DxKFquRCcbUCIkW1jPejkVBjIw6xntkUxDjaZUJGJ8lzWNYYZj+l3NWQYmZ8CiIdpFx6L90MU95xqNcddXsn3PMA6+COPhnDN5XSuP8MZ17ui27M7MUURD1X6b1lOpOFJyUmZiCuD0xtijzcmIaTm/6bBKiTEUVxFfCXIszY8JUqhp75gAX4griAS5lMG/Qk8FY0JfBuHAlg1nBQAZjwlAGE4Mqg0GYy2FGMhQfNBlMBFzVspx3WcuPs+oWY4Mug/kAQwazADDFFZ+UGEucOZJD9Fac+UwLjPB22Icpcy/KaKdytxBlelkrIHjkqEnGOGLM17lNEtrlZnBmhPok/b+FFOjadrlO1NjwKutDvr3e8jLfxWafc2cdy6MH19caJWUmjNiV2KuOZUbMqmxmdUPilHG8i2f1I2vI1GePvKYBOmBokY9J8xyuPO3pkPV37qYqozxT9Tu7g9LOkHmxcwQ29eIdtYyi6K1LSP0KFCpGCbYvDXt1r/WSyuVNDEnyOq5UDP/4GdZd28KkObxZ7soki9uP3l37Y1F+mRzzA06hMPR8N4RuAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Testimonials">
+		<g id="Testimonial 1">
+			<use id="avatar_2_u231" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
