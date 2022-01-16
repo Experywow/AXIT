@@ -1,12 +1,6 @@
 @font-face {
   font-family: "Raleway";
-  src: url("../Fonts/Raleway/Raleway-Light.eot");
-  src: url("../Fonts/Raleway/Raleway-Light.eot?#iefix")
-      format("embedded-opentype"),
-    url("../Fonts/Raleway/Raleway-Light.woff2") format("woff2"),
-    url("../Fonts/Raleway/Raleway-Light.woff") format("woff"),
-    url("../Fonts/Raleway/Raleway-Light.ttf") format("truetype"),
-    url("../Fonts/Raleway/Raleway-Light.svg#Raleway-Light") format("svg");
+  src: url("./Fonts/Raleway/Raleway-Light.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -14,13 +8,7 @@
 
 @font-face {
   font-family: "Raleway";
-  src: url("../Fonts/Raleway/Raleway-Regular.eot");
-  src: url("../Fonts/Raleway/Raleway-Regular.eot?#iefix")
-      format("embedded-opentype"),
-    url("../Fonts/Raleway/Raleway-Regular.woff2") format("woff2"),
-    url("../Fonts/Raleway/Raleway-Regular.woff") format("woff"),
-    url("../Fonts/Raleway/Raleway-Regular.ttf") format("truetype"),
-    url("../Fonts/Raleway/Raleway-Regular.svg#Raleway-Regular") format("svg");
+  src: url("./Fonts/Raleway/Raleway-Regular.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -28,14 +16,7 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url("../Fonts/Open_Sans/OpenSans-Regular.eot");
-  src: url("../Fonts/Open_Sans/OpenSans-Regular.eot?#iefix")
-      format("embedded-opentype"),
-    url("../Fonts/Open_Sans/OpenSans-Regular.woff2") format("woff2"),
-    url("../Fonts/Open_Sans/OpenSans-Regular.woff") format("woff"),
-    url("../Fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype"),
-    url("../Fonts/Open_Sans/OpenSans-Regular.svg#OpenSans-Regular")
-      format("svg");
+  src: url("./Fonts/Open_Sans/OpenSans-Regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -43,14 +24,7 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url("../Fonts/Open_Sans/OpenSans-SemiBold.eot");
-  src: url("../Fonts/Open_Sans/OpenSans-SemiBold.eot?#iefix")
-      format("embedded-opentype"),
-    url("../Fonts/Open_Sans/OpenSans-SemiBold.woff2") format("woff2"),
-    url("../Fonts/Open_Sans/OpenSans-SemiBold.woff") format("woff"),
-    url("../Fonts/Open_Sans/OpenSans-SemiBold.ttf") format("truetype"),
-    url("../Fonts/Open_Sans/OpenSans-SemiBold.svg#OpenSans-SemiBold")
-      format("svg");
+  src: url("./Fonts/Open_Sans/OpenSans-SemiBold.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -58,13 +32,7 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url("../Fonts/Open_Sans/OpenSans-Bold.eot");
-  src: url("../Fonts/Open_Sans/OpenSans-Bold.eot?#iefix")
-      format("embedded-opentype"),
-    url("../Fonts/Open_Sans/OpenSans-Bold.woff2") format("woff2"),
-    url("../Fonts/Open_Sans/OpenSans-Bold.woff") format("woff"),
-    url("../Fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype"),
-    url("../Fonts/Open_Sans/OpenSans-Bold.svg#OpenSans-Bold") format("svg");
+  src: url("./Fonts/Open_Sans/OpenSans-Bold.woff2") format("woff2");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
