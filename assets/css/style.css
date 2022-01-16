@@ -45,6 +45,9 @@ body {
   line-height: 1.2;
   font-family: "Open Sans", sans-serif;
 }
+body.is-active {
+  overflow: hidden;
+}
 
 * {
   box-sizing: border-box;

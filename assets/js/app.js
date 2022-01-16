@@ -31,17 +31,19 @@ for (var i = 0; i < mobMenuItems.length; i++) {
     mobMenuItems[i].onclick = function () {
         burger.classList.remove("is-active");
         mobilePopup.classList.remove("is-active");
+        document.body.classList.remove("is-active");
     };
 }
 
 burger.onclick = function () {
     burger.classList.add("is-active");
     mobilePopup.classList.add("is-active");
+    document.body.classList.add("is-active");
 }
 menuClose.onclick = function () {
     burger.classList.remove("is-active");
     mobilePopup.classList.remove("is-active");
-    
+    document.body.classList.remove("is-active");
 }
 
 
